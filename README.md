@@ -7,7 +7,7 @@ The 1D unsteady heat equation models the time-dependent temperature distribution
 
 $$
 \begin{equation} \label{eq.2-heateqn}
-  \pd{T}{t} - \alpha \pdn{T}{x}{2} = 0
+  \frac{\partial T}{\partial t} - \alpha \frac{\partial^2 T}{\partial x^2} = 0
 \end{equation}
 $$
 
