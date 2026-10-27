@@ -1,0 +1,6 @@
+IntroCFD*
+bin/
+*~
+figs/
+data/
+src/p1bplt.py
